@@ -36,7 +36,7 @@ def temp():
 
 	for neighbor in root.iter("neighbor"):
 		#print neighbor.attrib
-
+		#temp
 
 print("===================== Crawler Start =====================")
 #temp()
